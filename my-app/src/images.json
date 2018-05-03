@@ -1,0 +1,74 @@
+[
+	{
+		"id": 1,
+		"name": "Tigre",
+		"image": "https://i.ytimg.com/vi/RcTNoTL3nig/maxresdefault.jpg",
+		"clicked": false
+	},
+	{
+		"id": 2,
+		"name": "Saiga antelope",
+		"image": "https://metrouk2.files.wordpress.com/2018/01/pri_64462424.jpg",
+		"clicked": false
+	},
+	{
+		"id": 3,
+		"name": "Chimpanzee",
+		"image": "https://cdn-images-1.medium.com/max/1220/1*od2HLFzNoxk2JLDFFhUB3w.jpeg",
+		"clicked": false
+	},
+	{
+		"id": 4,
+		"name": "Leopard",
+		"image": "https://www.nationalgeographic.com/content/dam/photography/rights-exempt/best-of-photo-of-the-day/2017/animals/01_pod-best-animals.jpg",
+		"clicked": false
+	},
+	{
+		"id": 5,
+		"name": "Panda",
+		"image": "https://accuweather.brightspotcdn.com/dims4/default/26fce80/2147483647/resize/590x/quality/90/?url=http%3A%2F%2Faccuweather-bsp.s3.amazonaws.com%2F71%2F87%2F4435588f4d368344212386ce3199%2Fgiant-panda.jpg",
+		"clicked": false
+	},
+	{
+		"id": 6,
+		"name": "Reindeer",
+		"image": "https://www.reader.gr/sites/default/files/tarandoi.jpg",
+		"clicked": false
+	},
+	{
+		"id": 7,
+		"name": "Owl",
+		"image": "https://wallpaperstudio10.com/static/wpdb/wallpapers/1920x1080/175306.jpg",
+		"clicked": false
+	},
+	{
+		"id": 8,
+		"name": "Sloth",
+		"image": "https://pbs.twimg.com/media/Dafd_2RWAAEq89J.jpg",
+		"clicked": false
+	},
+	{
+		"id": 9,
+		"name": "Bear",
+		"image": "https://www.50-best.com/images/animal_wallpapers/brown_bears.jpg",
+		"clicked": false
+	},
+	{
+		"id": 10,
+		"name": "Wolf",
+		"image": "http://cdn.playbuzz.com/cdn/b35e1a63-1414-4a15-bcc8-4ef2ef0f8c1a/b4cd1cbd-20c3-402e-a0b5-0ce21a989cab.jpg",
+		"clicked": false
+	},
+	{
+		"id": 11,
+		"name": "Hijene",
+		"image": "http://www.erabaru.com.my/wp-content/uploads/2017/11/cute-wild-animals-aardwolf-1-5a128c18e52e6__700.jpg",
+		"clicked": false
+	},
+	{
+		"id": 12,
+		"name": "Lynx",
+		"image": "http://nature.versiondemo.ch/wp-content/uploads/2014/08/Capture-d%E2%80%99%C3%A9cran-2014-12-03-%C3%A0-15.32.03-842x520.png",
+		"clicked": false
+	}
+]
